@@ -1,4 +1,4 @@
-import 'package:bazaar/botao.dart';
+import 'package:bazaar/src/views/shared/botao.dart';
 import 'package:flutter/material.dart';
 
 class Login extends StatelessWidget {
